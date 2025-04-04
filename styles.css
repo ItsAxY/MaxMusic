@@ -19,8 +19,8 @@ body {
 
 /* Upper Warning Box Styling - matching outline as footer */
 .upper-warning {
-    border: 2px solid #f4ada7; /* Green border */
-    color: #f4ada7; /* Green text */
+    border: 2px solid #ff1300; /* Green border */
+    color: #ff1300; /* Green text */
     padding: 10px;
     margin-bottom: 20px;
     font-size: 1rem;
@@ -63,8 +63,8 @@ body {
 .footer {
     margin-top: 20px;
     font-size: 1rem;
-    color: #f4ada7;
-    border: 2px solid #ffffff; /* Green border */
+    color: #ff1300;
+    border: 2px solid #ff1300; /* Green border */
     padding: 10px;
     border-radius: 10px;
 }
