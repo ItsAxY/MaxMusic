@@ -1,8 +1,8 @@
 /* General Body Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff; /* White background */
-    color: #2e7d32; /* Green text */
+    background-color: #772828; /* White background */
+    color: #f4ada7; /* Green text */
     margin: 0;
     padding: 0;
     display: flex;
@@ -19,8 +19,8 @@ body {
 
 /* Upper Warning Box Styling - matching outline as footer */
 .upper-warning {
-    border: 2px solid #2e7d32; /* Green border */
-    color: #2e7d32; /* Green text */
+    border: 2px solid #f4ada7; /* Green border */
+    color: #f4ada7; /* Green text */
     padding: 10px;
     margin-bottom: 20px;
     font-size: 1rem;
@@ -29,7 +29,7 @@ body {
 
 /* Title Styling */
 .title {
-    color: #2e7d32; /* Green */
+    color: #f4ada7; /* Green */
     font-size: 2.5rem;
     margin-bottom: 20px;
 }
@@ -44,8 +44,8 @@ body {
 /* Button Styling */
 .link-btn {
     background-color: transparent;
-    border: 2px solid #2e7d32; /* Green border */
-    color: #2e7d32; /* Green text */
+    border: 2px solid #f4ada7; /* Green border */
+    color: #f4ada7; /* Green text */
     padding: 15px 30px;
     font-size: 1.2rem;
     border-radius: 50px;
@@ -55,8 +55,8 @@ body {
 }
 
 .link-btn:hover {
-    background-color: #2e7d32;
-    color: white; /* White text on hover */
+    background-color: #772828;
+    color:f4ada7; /* White text on hover */
 }
 
 /* Footer Styling */
