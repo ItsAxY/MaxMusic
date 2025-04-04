@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #772828; /* White background */
-    color: #f4ada7; /* Green text */
+    color: #ffffff; /* Green text */
     margin: 0;
     padding: 0;
     display: flex;
@@ -29,7 +29,7 @@ body {
 
 /* Title Styling */
 .title {
-    color: #f4ada7; /* Green */
+    color: #ffffff; /* Green */
     font-size: 2.5rem;
     margin-bottom: 20px;
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .link-btn:hover {
-    background-color: #772828;
+    background-color: transparent:
     color:f4ada7; /* White text on hover */
 }
 
@@ -63,8 +63,8 @@ body {
 .footer {
     margin-top: 20px;
     font-size: 1rem;
-    color: #2e7d32;
-    border: 2px solid #2e7d32; /* Green border */
+    color: #f4ada7;
+    border: 2px solid #ffffff; /* Green border */
     padding: 10px;
     border-radius: 10px;
 }
