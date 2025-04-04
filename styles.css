@@ -44,8 +44,8 @@ body {
 /* Button Styling */
 .link-btn {
     background-color: transparent;
-    border: 2px solid #f4ada7; /* Green border */
-    color: #f4ada7; /* Green text */
+    border: 2px solid #ffffff; /* Green border */
+    color: #ffffff; /* Green text */
     padding: 15px 30px;
     font-size: 1.2rem;
     border-radius: 50px;
